@@ -1,0 +1,20 @@
+rafael matos
+
+Comandos Git utilizados
+Durante a realização da atividade, foram utilizados os seguintes comandos no terminal Git Bash:
+
+git clone 
+
+cd exemplo_ec2
+
+mkdir aluno
+
+nano aluno
+
+git add
+
+git push
+
+git commit -m "criei novo arquivo"
+
+git push
